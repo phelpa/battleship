@@ -1,0 +1,11 @@
+.hovering:hover {
+    border-color:black;
+}
+
+.containerComp {
+    display:grid; 
+    width: 20rem;
+    grid-gap: 0px; 
+    grid-template: 4rem 4rem 4rem 4rem 4rem / 4rem 4rem 4rem 4rem 4rem;
+  }
+  

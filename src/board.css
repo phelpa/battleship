@@ -1,0 +1,10 @@
+.container {
+    display:grid; 
+    width: 20rem;
+    grid-gap: 0px; 
+    grid-template: 4rem 4rem 4rem 4rem 4rem / 4rem 4rem 4rem 4rem 4rem;
+  }
+  
+.text {
+  text-align:center;
+}
